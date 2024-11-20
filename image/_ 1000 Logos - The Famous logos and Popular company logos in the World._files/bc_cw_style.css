@@ -1,0 +1,22 @@
+.bc_cw_tc_wrapper {
+    padding-bottom: 10px;
+}
+.bc_cw_link, .bc_cw_tc_wrapper .title a{
+    cursor: pointer !important;
+}
+.bc_cw_tc_image {
+    background-color: #ededed;
+}
+.bc_cw_ttc_wrapper{
+    display: flex;
+    padding-bottom: 10px;
+}
+.bc_cw_ttc_wrapper .bc_cw_content{
+    flex: 1;
+    padding-left: 5px;
+}
+
+.bc_cw_ttc_wrapper .bc_cw_tc_image {
+    display: flex;
+    justify-content: center;
+}
